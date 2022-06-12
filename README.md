@@ -1,7 +1,6 @@
 # German From Zero To Hero
-Hey wonderful human being, this is an app I made a while back but decided to make it public so feel free to make any kind of changes with it.
-BTW you can download the app directly from the PlayStore here: 
-https://play.google.com/store/apps/details?id=com.ArceLab.German
+Hey wonderful human being, this is an app I made a while back but decided to make it public 🤠
+
 -------------------------------------------------------------------
 Having troubles trying to learn "Deutsch" (German)?
 I had those too... That's why I made an app that will help you with.
